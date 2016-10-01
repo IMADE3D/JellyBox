@@ -10,12 +10,12 @@ Yes!
 
 We deeply and sincerely LOVE REMIX culture. We believe ideas are born out of other ideas, and being able to build on other people's projects is path to innovation. Similarly, we LOVE HACKING or, more specifically, making things do what we want the to do and modify them to suit our needs. Also, we LOVE REPAIRING our own devices.
 
-Plus, we don't like to lock people into some sort of Orwellian proprietary system. After all, we are all children of RepRap. For all these reasons, we publish not only our production files (3D: stl and gcode, 2D: rld), but also source files that are way way easier to modify (3D: step).  We want you to play with the design! Make it better! See how it's done. 
+Plus, we don't like to lock people into some sort of Orwellian proprietary system. After all, we are all children of RepRap. For all these reasons, we publish not only our production files (3D: stl and gcode, 2D: rld), but also source files that are way way easier to modify (3D: step).  We want you to play with the design! Make it better! See how it's done.
 
 
 ### License specific answer:
 CC BY-NC-SA 4.0 - now<br>
-CC BY 	two - - - - years after publishing original files
+CC BY - - - - - - two years after publishing original files
 
 We do love the remix culture, however, we do this for a living, and research and development of hardware AND of the build experience is incredibly arduous, resource intensive, and plainly expensive. We are building a network of licensed trainers and licensed manufacturers (Franchisees - interested? We strike good deals. Shoot us a message.), and we need to be able to guarantee our partners a competitive advantage at the beginning.
 
