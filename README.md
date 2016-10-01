@@ -2,7 +2,11 @@
 
 Here you can find the JellyBox 3D Printer source files so you can print spare parts, new parts, or modify the printer to your liking!
 
-These files are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0). See “license.txt” more more information.
+These files are licensed under *Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)*. See “license.txt” more more information.
+
+- Update 2016-10-01
+  - JellyBox 1.3 is still in the stage of cleaning up the files. That's why you only find STLs here in the moment. Similarly, wire documentation is looking good, but it's not ready for public consumption. No worries; it's coming.  
+
 
 ## Q: So is JellyBox open-source?
 ### Contextual answer:
