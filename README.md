@@ -18,11 +18,8 @@ Plus, we don't like to lock people into some sort of Orwellian proprietary syste
 
 
 ### License specific answer:
-CC BY-NC-SA 4.0 - now<br>
-CC BY - - - - - - two years after publishing original files
+CC BY-NC-SA 4.0 - now
 
 We do love the remix culture, however, we do this for a living, and research and development of hardware AND of the build experience is incredibly arduous, resource intensive, and plainly expensive. We are building a network of licensed trainers and licensed manufacturers (Franchisees - interested? We strike good deals. Shoot us a message.), and we need to be able to guarantee our partners a competitive advantage at the beginning.
 
-Thus, we publish the files initially as under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0) license. This allows anyone to print spare part to fix their printer, remix the parts, hack the heck out of it, even build a whole new project on top. Yet, this is not strictly Open-Source as the Open Source Hardware Association would tell you, but it is a common practice, it's within RepRap guidelines, and most people in fact do consider this open source. Even the original versions of GNU allowed non-commercial clause!
-
-Yet for the work to be completely free and up for grabs, it really should have no restrictions attached. That's why we'll publish the source files under Creative Commons Attribution(CC BY), which will allow anyone to venture into the commercial waters even without our involvement.
+Thus, we publish the files under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0) license. This allows anyone to print spare part to fix their printer, remix the parts, hack the heck out of it, even build a whole new project on top. Yet, this is not strictly Open-Source as the Open Source Hardware Association would tell you, but it is a common practice, it's within RepRap guidelines, and most people in fact do consider this open source. Even the original versions of GNU allowed non-commercial clause!
