@@ -1,0 +1,2 @@
+if a filename starts with "p" - the part should be pink
+if a filename starts with "g" - the part should be green
