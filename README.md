@@ -1,15 +1,37 @@
-# JellyBox
+# JellyBox Files
 
-Here you can find the JellyBox 3D Printer source files so you can print spare parts, new parts, or modify the printer to your liking!
+Here you can find the JellyBox 3D Printer source files so you can **print spare parts**, or **modify the printer to your liking**!
 
-These files are licensed under *Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)*. See “license.txt” more more information.
+## GCODE
+- this is what you want it you want a **fast and easy spare part**
+- **pre-sliced files ready to print** on your JellyBOX
+- both cold and heated bed are fine
+- depending on the filament and ambient temperature, heated bed is beneficial for some parts
+- these are the gcodes we use for production
+- well, we usually plate the parts many time (to print 16 clips at a time for example), but it's _equivalent gcode_
 
+## STL
+- STL files are the most common 3D exchange file
+- pro: any slicer can process stl files
+- con: stls are difficult to modify precisely - if you need to be changing the files, get STEP, IGES, or something like that...
+
+## RLD
+- rld files are used for laser cutting
+- these are ready-to-lasercut
+
+## State of the Art
+- Update 2016-11-21
+  - GCODE, STL, RLD all published. The only parts missing are wire forms and native 3D files (step). We're working on it :-)
 - Update 2016-10-01
-  - JellyBox 1.3 is still in the stage of cleaning up the files. That's why you only find STLs here in the moment. Similarly, wire documentation is looking good, but it's not ready for public consumption. No worries; it's coming.  
+  - JellyBox 1.3 is still in the stage of cleaning up the files. That's why you only find STLs here in the moment. Similarly, wire documentation is looking good, but it's not ready for public consumption. No worries; it's coming.
 
 
-## Q: So is JellyBox open-source?
-### Contextual answer:
+## License
+
+  These files are licensed under *Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)*. Read below and see “license.txt” more more information.
+
+### Q: So is JellyBox open-source?
+#### Contextual answer:
 Yes!
 
 We deeply and sincerely LOVE REMIX culture. We believe ideas are born out of other ideas, and being able to build on other people's projects is path to innovation. Similarly, we LOVE HACKING or, more specifically, making things do what we want the to do and modify them to suit our needs. Also, we LOVE REPAIRING our own devices.
@@ -17,7 +39,7 @@ We deeply and sincerely LOVE REMIX culture. We believe ideas are born out of oth
 Plus, we don't like to lock people into some sort of Orwellian proprietary system. After all, we are all children of RepRap. For all these reasons, we publish not only our production files (3D: stl and gcode, 2D: rld), but also source files that are way way easier to modify (3D: step).  We want you to play with the design! Make it better! See how it's done.
 
 
-### License specific answer:
+#### License specific answer:
 CC BY-NC-SA 4.0 - now
 
 We do love the remix culture, however, we do this for a living, and research and development of hardware AND of the build experience is incredibly arduous, resource intensive, and plainly expensive. We are building a network of licensed trainers and licensed manufacturers (Franchisees - interested? We strike good deals. Shoot us a message.), and we need to be able to guarantee our partners a competitive advantage at the beginning.
