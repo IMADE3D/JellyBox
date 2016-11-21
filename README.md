@@ -1,4 +1,4 @@
-# JellyBox Files
+# JellyBOX Files
 
 Here you can find the JellyBox 3D Printer source files so you can **print spare parts**, or **modify the printer to your liking**!
 
