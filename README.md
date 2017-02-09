@@ -20,6 +20,8 @@ Here you can find the JellyBox 3D Printer source files so you can **print spare 
 - these are ready-to-lasercut
 
 ## State of the Art
+- Update 2017-02-07
+  - Several STLs and corresponding GCODEs have been updated. Left fan mount is re-inforced, feeder yoke and arm are smoother than ever, and there is a new mount for the flat proximity sensor without righ fan. Good things all around :cake: . 
 - Update 2016-11-21
   - GCODE, STL, RLD all published. The only parts missing are wire forms and native 3D files (step). We're working on it :-)
 - Update 2016-10-01
