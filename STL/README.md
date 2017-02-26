@@ -1,6 +1,6 @@
-## p vs g
-- if a filename starts with "p" - the part should be printed pink
-- if a filename starts with "g" - the part should be printed green
+## pink vs green
+- if a filename has with "pink" - the part should be printed pink
+- if a filename has with "green" - the part should be printed green
 
 ## STL
 - STL files are the most common 3D exchange file
