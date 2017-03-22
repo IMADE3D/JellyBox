@@ -8,8 +8,8 @@
 ;---------------------------------------
 ; ; ; MODIFY THESE VALUES ; ; ;
 ;_______________________________________
-M140 S55        ; set bed temperature and move on
-M190 S55        ; wait for bed temperature to reach this value
+M140 S65        ; set bed temperature and move on
+M190 S60        ; wait for bed temperature to reach this value
 M104 S240 T0    ; set hotend temperature and move on
 M109 S240 T0    ; wait for hotend temperature to reach this value
 ; NOTE: the first layer hotend temperature is 5C higher.
