@@ -1,0 +1,7 @@
+This file is pre-sliced for PETG on a JellyBOX Original or 2.
+
+To print in other materials, use the open the included 3mf Cura project file in the latest Cura IMADE3D Edition (go.imade3d.com/cura-download) and edit the settings to your liking. 
+
+Alternatively, open the gcode in text editor and change the temperatures...
+
+You can also slice the stl yourself, but beware that this file uses advanced techniques (local override of inner settings) to get a locally stronger print. 
