@@ -1,0 +1,1 @@
+The cork gaskets help isolate motor vibrations. Cut from 1.5-2mm cork. 

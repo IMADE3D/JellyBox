@@ -1,0 +1,3 @@
+The master for geometry is an Illustrator file (.ai), but the master for production are Rdworks (.rld) files. The ai files do _not_ contain all the informations, but only the shapes and colors. Line processing like dotted line, dashed line... is done in RDworks and is contained in the .rld files. 
+If you can, we recommend you use RDworks with your laser. 
+If you can't then still download RDworks, and use the Preview function to see what all the settings do so you can replicate it in your laser host.
