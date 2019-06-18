@@ -1,5 +1,6 @@
-<p style="color: black; background-color: #ffcecc; margin: 10px 0px; padding: 12px; text-align: left; border-radius: 3px;"><b>GitHub Mangles the Zip Export</b><br>
-Do NOT download the project as a .zip if you want to use the 3mf Cura Project files. Github mangles the files and they will not work. Download the individual 3mf files from their pages or use git clone instead.</p>
+| ⚠️ Warning: GitHub Mangles Zip Export ⚠️|
+| --- |
+|Do not download the project as a .zip if you want to use the 3mf Cura Project files. Github mangles the files and they will not work. Download the individual 3mf files from their pages or use git clone instead.|
 
 # JellyBOX Files
 
