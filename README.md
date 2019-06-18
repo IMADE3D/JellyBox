@@ -1,3 +1,7 @@
+⚠️ **GitHub Mangles Zip Export.**
+
+> Do NOT download the project as a .zip if you want to use the 3mf Cura Project files. Github mangles the files and they will not work. Download the individual 3mf files from their pages or use git clone instead.
+
 # JellyBOX Files
 
 Here you can find the JellyBox 3D Printer source files so you can **print spare parts**, or **modify the printer to your liking**!
@@ -21,7 +25,7 @@ Here you can find the JellyBox 3D Printer source files so you can **print spare 
 
 ## State of the Art
 - Update 2017-02-07
-  - Several STLs and corresponding GCODEs have been updated. Left fan mount is re-inforced, feeder yoke and arm are smoother than ever, and there is a new mount for the flat proximity sensor without righ fan. Good things all around :cake: . 
+  - Several STLs and corresponding GCODEs have been updated. Left fan mount is re-inforced, feeder yoke and arm are smoother than ever, and there is a new mount for the flat proximity sensor without righ fan. Good things all around :cake: .
 - Update 2016-11-21
   - GCODE, STL, RLD all published. The only parts missing are wire forms and native 3D files (step). We're working on it :-)
 - Update 2016-10-01
